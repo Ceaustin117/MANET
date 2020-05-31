@@ -1,4 +1,4 @@
-# MANET
+# MANET Improvements
 This repo contains code from a jupyter notebook for improvements upon a MANET. The code is written in Python3. So far there have been improvements on Fig 6. Future improvements using machine learning will hope to include allowing nodes to join the network without administrator authorization,routing protocol improvement),the DSP attack prevention and flood broadcasting.
 
 Fig 6 is improved by using an algorithm so that the nodes can find each other in a situation 
