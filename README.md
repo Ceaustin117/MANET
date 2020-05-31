@@ -1,6 +1,7 @@
 # MANET
 Fig 6 is improved by using an algorithm so that the nodes can find each other in a situation 
-where they have been unable to detect other devices. In the event they are able to detect other devices they are more likely to be on the same channel and establish a connection quicker. Which is very important in military or other time critical situations. This method is especially useful 802.11n wireless network communication channels which can have 24 channels. Future implementations might have even more. Improved results compared to purely random are shown in the link below. Followed by the random and new random_remainder algorithm written in python3.
+where they have been unable to detect other devices. In the event they are able to detect other devices they are more likely to be on the same channel and establish a connection quicker. Which is very important in military or other time critical situations. This method is especially useful 802.11n wireless network communication channels which can have 24 channels. Future implementations might have even more channels available. 
+Improved results compared to purely random are shown in the link below. Followed by the random and new random_remainder algorithm written in python3.
 
 <p align="center">
   <img src="https://github.com/Ceaustin117/MANET/blob/master/improvements.png" width="350" title="hover text">
