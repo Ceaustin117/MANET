@@ -1,11 +1,12 @@
 # MANET
 Fig 6 is improved by using an algorithm so that the nodes can find each other in a situation 
-where they have been unable to establish communication and are randomly switching channels. In the event they are able to establish a connection they are more likely to be on the same channel.
+where they have been unable to establish communication and are randomly switching channels. In the event they are able to establish a connection they are more likely to be on the same channel. This method is especially useful 802.11n wireless network communication channels which can have 24 channels. Future implementations might have even more.
 
 Random Method
-        def set_random_channel(self):
-                random_number = random.randint(1, self.number_of_channels)
-                return random_number
+
+                def set_random_channel(self):
+                        random_number = random.randint(1, self.number_of_channels)
+                        return random_number
 
 Improved Method using a combination of randomization and remainder math.
 
