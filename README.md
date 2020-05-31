@@ -1,6 +1,9 @@
 # MANET
+This repo contains code from a jupyter notebook for improvements upon a MANET. The code is written in Python3. So far there have been improvements on Fig 6. Future improvements using machine learning will hope to include allowing nodes to join the network without administrator authorization,routing protocol improvement),the DSP attack prevention and flood broadcasting.
+
 Fig 6 is improved by using an algorithm so that the nodes can find each other in a situation 
 where they have been unable to detect other devices. In the event they are able to detect other devices they are more likely to be on the same channel and establish a connection quicker. Which is very important in military or other time critical situations. This method is especially useful 802.11n wireless network communication channels which can have 24 channels. Future implementations might have even more channels available. 
+
 Improved results compared to purely random are shown in the link below. Followed by the random and new random_remainder algorithm written in python3.
 
 <p align="center">
