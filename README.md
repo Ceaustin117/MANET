@@ -7,7 +7,7 @@ def set_random_channel(self):
         random_number = random.randint(1, self.number_of_channels)
         return random_number
 
-Improved Method using a combination of randomization and remainder math
+Improved Method using a combination of randomization and remainder math.
 def random_remainder(self):
         flag_primary = False
         flag_secondary = False
