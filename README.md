@@ -2,6 +2,8 @@
 Fig 6 is improved by using an algorithm so that the nodes can find each other in a situation 
 where they have been unable to establish communication and are randomly switching channels. In the event they are able to establish a connection they are more likely to be on the same channel. This method is especially useful 802.11n wireless network communication channels which can have 24 channels. Future implementations might have even more. Improved results are shown here.
 
+![alt text](https://github.com/ceaustin117/MANET/improvements.png?raw=true)
+
 
 
 Random Method
